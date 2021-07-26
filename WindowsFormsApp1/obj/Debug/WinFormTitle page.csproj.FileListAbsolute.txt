@@ -1,0 +1,200 @@
+E:\Games\Programer\Курсовая\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+E:\Games\Programer\Курсовая\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+E:\Games\Programer\Курсовая\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+E:\Games\Programer\Курсовая\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WinFormTitle page.csprojAssemblyReference.cache
+E:\Games\Programer\Курсовая\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FmClassJourn.resources
+E:\Games\Programer\Курсовая\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+E:\Games\Programer\Курсовая\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WinFormTitle page.csproj.GenerateResource.cache
+E:\Games\Programer\Курсовая\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WinFormTitle page.csproj.CoreCompileInputs.cache
+E:\Games\Programer\Курсовая\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+E:\Games\Programer\Курсовая\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+E:\Games\Programer\Курсовая\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form2.resources
+E:\Games\Programer\Курсовая\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form3.resources
+E:\Games\Programer\Курсовая\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FormStart.resources
+E:\Games\Programer\Курсовая\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\MySql.Data.dll
+E:\Games\Programer\Курсовая\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Google.Protobuf.dll
+E:\Games\Programer\Курсовая\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Zstandard.Net.dll
+E:\Games\Programer\Курсовая\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\K4os.Compression.LZ4.Streams.dll
+E:\Games\Programer\Курсовая\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\BouncyCastle.Crypto.dll
+E:\Games\Programer\Курсовая\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Ubiety.Dns.Core.dll
+E:\Games\Programer\Курсовая\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\Games\Programer\Курсовая\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Buffers.dll
+E:\Games\Programer\Курсовая\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\K4os.Compression.LZ4.dll
+E:\Games\Programer\Курсовая\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\K4os.Hash.xxHash.dll
+E:\Games\Programer\Курсовая\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\MySql.Data.xml
+E:\Games\Programer\Курсовая\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WinFormTitle page.csproj.CopyComplete
+C:\Users\PojiloyGibon\Desktop\Курсовая\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\PojiloyGibon\Desktop\Курсовая\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\PojiloyGibon\Desktop\Курсовая\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\PojiloyGibon\Desktop\Курсовая\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\MySql.Data.dll
+C:\Users\PojiloyGibon\Desktop\Курсовая\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Google.Protobuf.dll
+C:\Users\PojiloyGibon\Desktop\Курсовая\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Zstandard.Net.dll
+C:\Users\PojiloyGibon\Desktop\Курсовая\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\PojiloyGibon\Desktop\Курсовая\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\PojiloyGibon\Desktop\Курсовая\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\PojiloyGibon\Desktop\Курсовая\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Memory.dll
+C:\Users\PojiloyGibon\Desktop\Курсовая\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\PojiloyGibon\Desktop\Курсовая\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Buffers.dll
+C:\Users\PojiloyGibon\Desktop\Курсовая\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\PojiloyGibon\Desktop\Курсовая\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\PojiloyGibon\Desktop\Курсовая\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\MySql.Data.xml
+C:\Users\PojiloyGibon\Desktop\Курсовая\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WinFormTitle page.csprojAssemblyReference.cache
+C:\Users\PojiloyGibon\Desktop\Курсовая\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe.config
+C:\Users\PojiloyGibon\Desktop\Курсовая\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form2.resources
+C:\Users\PojiloyGibon\Desktop\Курсовая\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form3.resources
+C:\Users\PojiloyGibon\Desktop\Курсовая\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form5.resources
+C:\Users\PojiloyGibon\Desktop\Курсовая\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\PojiloyGibon\Desktop\Курсовая\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WinFormTitle page.csproj.GenerateResource.cache
+C:\Users\PojiloyGibon\Desktop\Курсовая\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WinFormTitle page.csproj.CoreCompileInputs.cache
+C:\Users\PojiloyGibon\Desktop\Курсовая\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WinFormTitle page.csproj.CopyComplete
+C:\Users\PojiloyGibon\Desktop\Курсовая\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\PojiloyGibon\Desktop\Курсовая\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\PojiloyGibon\Desktop\Курсовая\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Frm.resources
+C:\Users\PojiloyGibon\Desktop\Курсовая\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form6.resources
+C:\Users\PojiloyGibon\Desktop\Курсовая\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form7.resources
+C:\Users\PojiloyGibon\Desktop\Курсовая\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\PojiloyGibon\Desktop\Курсовая\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form8.resources
+C:\Users\PojiloyGibon\Desktop\Курсовая\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form9.resources
+C:\Users\PojiloyGibon\Desktop\Курсовая\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form11.resources
+C:\Users\PojiloyGibon\Desktop\Курсовая\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form12.resources
+C:\Users\PojiloyGibon\Desktop\Курсовая\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form10.resources
+C:\Users\oksana\Desktop\ІНФОРМАТІКА YAROSLAV\БД\Курсовая\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\oksana\Desktop\ІНФОРМАТІКА YAROSLAV\БД\Курсовая\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\oksana\Desktop\ІНФОРМАТІКА YAROSLAV\БД\Курсовая\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\oksana\Desktop\ІНФОРМАТІКА YAROSLAV\БД\Курсовая\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\MySql.Data.dll
+C:\Users\oksana\Desktop\ІНФОРМАТІКА YAROSLAV\БД\Курсовая\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Google.Protobuf.dll
+C:\Users\oksana\Desktop\ІНФОРМАТІКА YAROSLAV\БД\Курсовая\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Zstandard.Net.dll
+C:\Users\oksana\Desktop\ІНФОРМАТІКА YAROSLAV\БД\Курсовая\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\oksana\Desktop\ІНФОРМАТІКА YAROSLAV\БД\Курсовая\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\oksana\Desktop\ІНФОРМАТІКА YAROSLAV\БД\Курсовая\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\oksana\Desktop\ІНФОРМАТІКА YAROSLAV\БД\Курсовая\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Memory.dll
+C:\Users\oksana\Desktop\ІНФОРМАТІКА YAROSLAV\БД\Курсовая\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\oksana\Desktop\ІНФОРМАТІКА YAROSLAV\БД\Курсовая\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Buffers.dll
+C:\Users\oksana\Desktop\ІНФОРМАТІКА YAROSLAV\БД\Курсовая\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\oksana\Desktop\ІНФОРМАТІКА YAROSLAV\БД\Курсовая\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\oksana\Desktop\ІНФОРМАТІКА YAROSLAV\БД\Курсовая\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\MySql.Data.xml
+C:\Users\oksana\Desktop\ІНФОРМАТІКА YAROSLAV\БД\Курсовая\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WinFormTitle page.csprojAssemblyReference.cache
+C:\Users\oksana\Desktop\ІНФОРМАТІКА YAROSLAV\БД\Курсовая\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe.config
+C:\Users\oksana\Desktop\ІНФОРМАТІКА YAROSLAV\БД\Курсовая\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\oksana\Desktop\ІНФОРМАТІКА YAROSLAV\БД\Курсовая\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form10.resources
+C:\Users\oksana\Desktop\ІНФОРМАТІКА YAROSLAV\БД\Курсовая\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form11.resources
+C:\Users\oksana\Desktop\ІНФОРМАТІКА YAROSLAV\БД\Курсовая\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form12.resources
+C:\Users\oksana\Desktop\ІНФОРМАТІКА YAROSLAV\БД\Курсовая\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form2.resources
+C:\Users\oksana\Desktop\ІНФОРМАТІКА YAROSLAV\БД\Курсовая\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form3.resources
+C:\Users\oksana\Desktop\ІНФОРМАТІКА YAROSLAV\БД\Курсовая\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Frm.resources
+C:\Users\oksana\Desktop\ІНФОРМАТІКА YAROSLAV\БД\Курсовая\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form5.resources
+C:\Users\oksana\Desktop\ІНФОРМАТІКА YAROSLAV\БД\Курсовая\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form6.resources
+C:\Users\oksana\Desktop\ІНФОРМАТІКА YAROSLAV\БД\Курсовая\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form7.resources
+C:\Users\oksana\Desktop\ІНФОРМАТІКА YAROSLAV\БД\Курсовая\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form8.resources
+C:\Users\oksana\Desktop\ІНФОРМАТІКА YAROSLAV\БД\Курсовая\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form9.resources
+C:\Users\oksana\Desktop\ІНФОРМАТІКА YAROSLAV\БД\Курсовая\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\oksana\Desktop\ІНФОРМАТІКА YAROSLAV\БД\Курсовая\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WinFormTitle page.csproj.GenerateResource.cache
+C:\Users\oksana\Desktop\ІНФОРМАТІКА YAROSLAV\БД\Курсовая\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WinFormTitle page.csproj.CoreCompileInputs.cache
+C:\Users\oksana\Desktop\ІНФОРМАТІКА YAROSLAV\БД\Курсовая\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WinFormTitle page.csproj.CopyComplete
+C:\Users\oksana\Desktop\ІНФОРМАТІКА YAROSLAV\БД\Курсовая\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\oksana\Desktop\ІНФОРМАТІКА YAROSLAV\БД\Курсовая\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+E:\Курсовая\Done\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+E:\Курсовая\Done\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+E:\Курсовая\Done\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+E:\Курсовая\Done\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\MySql.Data.dll
+E:\Курсовая\Done\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Google.Protobuf.dll
+E:\Курсовая\Done\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Zstandard.Net.dll
+E:\Курсовая\Done\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\K4os.Compression.LZ4.Streams.dll
+E:\Курсовая\Done\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\BouncyCastle.Crypto.dll
+E:\Курсовая\Done\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Ubiety.Dns.Core.dll
+E:\Курсовая\Done\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Memory.dll
+E:\Курсовая\Done\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\Курсовая\Done\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Buffers.dll
+E:\Курсовая\Done\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\K4os.Compression.LZ4.dll
+E:\Курсовая\Done\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\K4os.Hash.xxHash.dll
+E:\Курсовая\Done\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Numerics.Vectors.dll
+E:\Курсовая\Done\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\MySql.Data.xml
+E:\Курсовая\Done\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WinFormTitle page.csprojAssemblyReference.cache
+E:\Курсовая\Done\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+E:\Курсовая\Done\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form10.resources
+E:\Курсовая\Done\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form11.resources
+E:\Курсовая\Done\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form12.resources
+E:\Курсовая\Done\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form2.resources
+E:\Курсовая\Done\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form3.resources
+E:\Курсовая\Done\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Frm.resources
+E:\Курсовая\Done\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form5.resources
+E:\Курсовая\Done\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form6.resources
+E:\Курсовая\Done\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form7.resources
+E:\Курсовая\Done\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form8.resources
+E:\Курсовая\Done\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form9.resources
+E:\Курсовая\Done\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+E:\Курсовая\Done\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WinFormTitle page.csproj.GenerateResource.cache
+E:\Курсовая\Done\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WinFormTitle page.csproj.CoreCompileInputs.cache
+E:\Курсовая\Done\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WinFormTitle page.csproj.CopyComplete
+E:\Курсовая\Done\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+E:\Курсовая\Done\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\aprox\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\aprox\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\aprox\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\aprox\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\MySql.Data.dll
+C:\Users\aprox\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Google.Protobuf.dll
+C:\Users\aprox\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Zstandard.Net.dll
+C:\Users\aprox\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\aprox\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\aprox\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\aprox\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Memory.dll
+C:\Users\aprox\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\aprox\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Buffers.dll
+C:\Users\aprox\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\aprox\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\aprox\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\aprox\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\MySql.Data.xml
+C:\Users\aprox\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WinFormTitle page.csproj.AssemblyReference.cache
+C:\Users\aprox\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\aprox\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form10.resources
+C:\Users\aprox\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form11.resources
+C:\Users\aprox\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form12.resources
+C:\Users\aprox\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form2.resources
+C:\Users\aprox\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form3.resources
+C:\Users\aprox\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Frm.resources
+C:\Users\aprox\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form5.resources
+C:\Users\aprox\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form6.resources
+C:\Users\aprox\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form7.resources
+C:\Users\aprox\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form8.resources
+C:\Users\aprox\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form9.resources
+C:\Users\aprox\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\aprox\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WinFormTitle page.csproj.GenerateResource.cache
+C:\Users\aprox\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WinFormTitle page.csproj.CoreCompileInputs.cache
+C:\Users\aprox\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WinFormTitle page.csproj.CopyComplete
+C:\Users\aprox\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\aprox\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+E:\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+E:\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+E:\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+E:\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\MySql.Data.dll
+E:\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Google.Protobuf.dll
+E:\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Zstandard.Net.dll
+E:\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\K4os.Compression.LZ4.Streams.dll
+E:\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\BouncyCastle.Crypto.dll
+E:\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Ubiety.Dns.Core.dll
+E:\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Memory.dll
+E:\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Buffers.dll
+E:\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\K4os.Compression.LZ4.dll
+E:\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\K4os.Hash.xxHash.dll
+E:\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Numerics.Vectors.dll
+E:\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\MySql.Data.xml
+E:\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WinFormTitle page.csprojAssemblyReference.cache
+E:\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+E:\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form10.resources
+E:\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form11.resources
+E:\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form12.resources
+E:\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form2.resources
+E:\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form3.resources
+E:\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Frm.resources
+E:\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form5.resources
+E:\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form6.resources
+E:\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form7.resources
+E:\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form8.resources
+E:\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form9.resources
+E:\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+E:\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WinFormTitle page.csproj.GenerateResource.cache
+E:\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WinFormTitle page.csproj.CoreCompileInputs.cache
+E:\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WinFormTitle page.csproj.CopyComplete
+E:\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+E:\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
